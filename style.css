@@ -148,7 +148,8 @@ img {
   margin: 100px 250px;
   display: flex;
   flex-wrap: wrap;
-  justify-items: center;
+  justify-content: space-around;
+  
 
 
 }
